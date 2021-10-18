@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I am *death.crafter*, from the Realm of Death.
+#### Glad you visited my profile.
+
+#### Farewell!
+
 <!--
 **deathcrafter/deathcrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
